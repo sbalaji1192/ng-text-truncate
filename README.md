@@ -1,4 +1,4 @@
-ng-text-truncate
+ng-text-truncate-patched (fork of [ng-text-truncate-patched](https://github.com/PavelKonon/ng-text-truncate))
 ================
 
 This is a simple, but fully functional, directive for truncating text in [angularjs](https://angularjs.org/) apps. This directive not only truncates your text, but also permits toggling the hidden part of the truncated text.

@@ -1,14 +1,14 @@
 {
-  "name": "ng-text-truncate",
+  "name": "ng-text-truncate-patched",
   "version": "1.0.0",
-  "description": "Angular directive to truncate and expand text by it lenght",
-  "main": "ng-text-truncate.js",
+  "description": "Angular directive to truncate and expand text by it length",
+  "main": "ng-text-truncate-patched.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PavelKonon/ng-text-truncate.git"
+    "url": "git+https://github.com/sbalaji1192/ng-text-truncate-patched.git"
   },
   "keywords": [
     "angular",
@@ -16,10 +16,10 @@
     "show",
     "hide"
   ],
-  "author": "Pavel Konan",
-  "license": "ISC",
+  "author": "Balaji",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PavelKonon/ng-text-truncate/issues"
+    "url": "https://github.com/sbalaji1192/ng-text-truncate-patched/issues"
   },
-  "homepage": "https://github.com/PavelKonon/ng-text-truncate#readme"
+  "homepage": "https://github.com/sbalaji1192/ng-text-truncate-patched#readme"
 }
