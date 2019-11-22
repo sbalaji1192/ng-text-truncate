@@ -1,7 +1,7 @@
 {
   "name": "ng-text-truncate-patched",
   "version": "1.0.0",
-  "description": "Angular directive to truncate and expand text by it length",
+  "description": "Angular directive to truncate and expand text by it length. forked from ng-text-truncate by Pavel Konan",
   "main": "ng-text-truncate-patched.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +17,7 @@
     "hide"
   ],
   "author": "Balaji",
+  "original_author": "Pavel Konan",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/sbalaji1192/ng-text-truncate-patched/issues"
